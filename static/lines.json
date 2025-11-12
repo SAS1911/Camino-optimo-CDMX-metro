@@ -1,0 +1,68 @@
+{
+  "L1": {
+    "color": "#8B1B3B",
+    "stations": {
+      "Observatorio": [0.184, 0.427],
+      "Tacubaya": [0.253, 0.361],
+      "Juanacatlan": [0.321, 0.309],
+      "Chapultepec": [0.384, 0.244],
+      "Sevilla": [0.444, 0.183],
+      "Insurgentes": [0.530, 0.135],
+      "Cuauhtemoc": [0.596, 0.135],
+      "Balderas": [0.679, 0.135]
+    }
+  },
+  "L3": {
+    "color": "#92C54A",
+    "stations": {
+      "Universidad": [0.679, 0.878],
+      "Copilco": [0.679, 0.822],
+      "M. A. De Quevedo": [0.679, 0.767],
+      "Viveros": [0.679, 0.704],
+      "Coyoacan": [0.679, 0.650],
+      "Zapata": [0.679, 0.596],
+      "Division del Norte": [0.679, 0.519],
+      "Eugenia": [0.679, 0.490],
+      "Etiopia": [0.679, 0.424],
+      "Centro Medico": [0.679, 0.361],
+      "Hospital General": [0.679, 0.253],
+      "Niños Heroes": [0.679, 0.190],
+      "Balderas": [0.679, 0.135],
+      "Juarez": [0.679, 0.029]
+    }
+  },
+  "L7": {
+    "color": "#F08A24",
+    "stations": {
+      "Barranca del Muerto": [0.253, 0.691],
+      "Mixcoac": [0.253, 0.596],
+      "San Antonio": [0.253, 0.519],
+      "San Pedro de los Pinos": [0.253, 0.460],
+      "Tacubaya": [0.253, 0.361],
+      "Constituyentes": [0.253, 0.262],
+      "Auditorio": [0.253, 0.158],
+      "Polanco": [0.253, 0.047]
+    }
+  },
+  "L9": {
+    "color": "#7C4A1A",
+    "stations": {
+      "Tacubaya": [0.253, 0.361],
+      "Patriotismo": [0.399, 0.361],
+      "Chilpancingo": [0.571, 0.361],
+      "Centro Medico": [0.679, 0.361],
+      "Lazaro Cardenas": [0.848, 0.361]
+    }
+  },
+  "L12": {
+    "color": "#2F7A3F",
+    "stations": {
+      "Mixcoac": [0.253, 0.596],
+      "Insurgentes Sur": [0.376, 0.596],
+      "Hospital 20 de Noviembre": [0.513, 0.596],
+      "Zapata": [0.679, 0.596],
+      "Parque de los Venados": [0.838, 0.596],
+      "Eje Central": [0.939, 0.749]
+    }
+  }
+}

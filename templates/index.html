@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Metro CDMX - Mapa interactivo</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div id="controls">
+    <div><strong>Origen:</strong> <span id="sel-origin">—</span></div>
+    <div><strong>Destino:</strong> <span id="sel-dest">—</span></div>
+    <div style="margin-top:6px;">
+      <button id="btn-clear">Limpiar</button>
+      <button id="btn-calc" disabled>Calcular ruta</button>
+    </div>
+    <div id="info-route" style="margin-top:8px;font-size:14px;"></div>
+  </div>
+
+  <div id="map-container">
+    <img id="metro-map" src="{{ url_for('static', filename='map.png') }}">
+    <svg id="overlay"></svg>
+  </div>
+
+  <script src="{{ url_for('static', filename='map.js') }}"></script>
+</body>
+</html>
