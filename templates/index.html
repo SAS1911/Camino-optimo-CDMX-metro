@@ -10,21 +10,20 @@
   <h1>Camino Óptimo del Metro CDMX</h1>
 
   <div id="map-container">
-    <!-- Imagen base del metro -->
-    <img id="metro-map" src="/static/map.png" alt="Mapa del metro CDMX" />
 
-    <!-- Capa SVG donde se dibuja la ruta -->
+    <!-- Imagen base -->
+    <img id="metro-map" src="/static/map.png" alt="Mapa Metro CDMX">
+
+    <!-- Rutas -->
     <svg id="route-line"></svg>
 
-    <!-- Capa donde van los botones de estaciones -->
+    <!-- Botones de estaciones -->
     <div id="overlay"></div>
-  </div>
 
-  <div id="controls">
-    <button onclick="resetSelection()">Reiniciar selección</button>
   </div>
 
   <div id="result"></div>
+  <div id="steps"></div>
 
   <script src="/static/map.js"></script>
 </body>
