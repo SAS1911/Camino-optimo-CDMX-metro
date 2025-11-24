@@ -1,68 +1,842 @@
 {
   "L1": {
-    "color": "#8B1B3B",
+    "color": "#C23C7F",
     "stations": {
-      "Observatorio": [0.184, 0.427],
-      "Tacubaya": [0.253, 0.361],
-      "Juanacatlan": [0.321, 0.309],
-      "Chapultepec": [0.384, 0.244],
-      "Sevilla": [0.444, 0.183],
-      "Insurgentes": [0.530, 0.135],
-      "Cuauhtemoc": [0.596, 0.135],
-      "Balderas": [0.679, 0.135]
+      "Pantitlán": [
+        0.801325,
+        0.48265
+      ],
+      "Zaragoza": [
+        0.7546,
+        0.476
+      ],
+      "Gómez Farías": [
+        0.7308,
+        0.4571
+      ],
+      "Boulevard Puerto Aéreo": [
+        0.7217,
+        0.4247
+      ],
+      "Balbuena": [
+        0.7153,
+        0.394
+      ],
+      "Moctezuma": [
+        0.6861,
+        0.3688
+      ],
+      "San Lázaro": [
+        0.6487,
+        0.3357
+      ],
+      "Candelaria": [
+        0.61315,
+        0.3357
+      ],
+      "Merced": [
+        0.5456,
+        0.3956
+      ],
+      "Pino Suárez": [
+        0.51095,
+        0.4062
+      ],
+      "Isabel la Católica": [
+        0.4635,
+        0.409
+      ],
+      "Salto del Agua": [
+        0.41745,
+        0.4082
+      ],
+      "Balderas": [
+        0.34445,
+        0.409
+      ],
+      "Cuauhtémoc": [
+        0.3047,
+        0.4074
+      ],
+      "Insurgentes": [
+        0.2692,
+        0.4074
+      ],
+      "Sevilla": [
+        0.2345,
+        0.4318
+      ],
+      "Chapultepec": [
+        0.2007,
+        0.4602
+      ],
+      "Juanacatlán": [
+        0.1706,
+        0.487
+      ],
+      "Tacubaya": [
+        0.1375,
+        0.513267
+      ],
+      "Observatorio": [
+        0.104,
+        0.5461
+      ]
+    }
+  },
+  "L2": {
+    "color": "#1469B5",
+    "stations": {
+      "Cuatro Caminos": [
+        0.0374,
+        0.2569
+      ],
+      "Panteones": [
+        0.0912,
+        0.2569
+      ],
+      "Tacuba": [
+        0.13595,
+        0.2553
+      ],
+      "Cuitláhuac": [
+        0.1569,
+        0.2734
+      ],
+      "Popotla": [
+        0.1788,
+        0.2947
+      ],
+      "Colegio Militar": [
+        0.2035,
+        0.3097
+      ],
+      "Normal": [
+        0.2336,
+        0.3105
+      ],
+      "San Cosme": [
+        0.2701,
+        0.3097
+      ],
+      "Revolución": [
+        0.3139,
+        0.3097
+      ],
+      "Hidalgo": [
+        0.3449,
+        0.3113
+      ],
+      "Bellas Artes": [
+        0.41605,
+        0.3101
+      ],
+      "Allende": [
+        0.4818,
+        0.3215
+      ],
+      "Zócalo/Tenochtitlan": [
+        0.5119,
+        0.3562
+      ],
+      "Pino Suárez": [
+        0.51095,
+        0.4062
+      ],
+      "San Antonio Abad": [
+        0.5119,
+        0.476
+      ],
+      "Chabacano": [
+        0.510633,
+        0.511667
+      ],
+      "Viaducto": [
+        0.51,
+        0.5524
+      ],
+      "Xola": [
+        0.51,
+        0.5776
+      ],
+      "Villa de Cortés": [
+        0.51,
+        0.6052
+      ],
+      "Nativitas": [
+        0.51,
+        0.6328
+      ],
+      "Portero": [
+        0.51,
+        0.6596
+      ],
+      "Ermita": [
+        0.51005,
+        0.6879
+      ],
+      "General Anaya": [
+        0.51,
+        0.7139
+      ],
+      "Tasqueña": [
+        0.5119,
+        0.7415
+      ]
     }
   },
   "L3": {
-    "color": "#92C54A",
+    "color": "#8D8926",
     "stations": {
-      "Universidad": [0.679, 0.878],
-      "Copilco": [0.679, 0.822],
-      "M. A. De Quevedo": [0.679, 0.767],
-      "Viveros": [0.679, 0.704],
-      "Coyoacan": [0.679, 0.650],
-      "Zapata": [0.679, 0.596],
-      "Division del Norte": [0.679, 0.525],
-      "Eugenia": [0.679, 0.490],
-      "Etiopia": [0.679, 0.424],
-      "Centro Medico": [0.679, 0.361],
-      "Hospital General": [0.679, 0.253],
-      "Niños Heroes": [0.679, 0.190],
-      "Balderas": [0.679, 0.135],
-      "Juarez": [0.679, 0.029]
+      "Indios Verdes": [
+        0.4398,
+        0.0875
+      ],
+      "Deportivo 18 de Marzo": [
+        0.4389,
+        0.1489
+      ],
+      "Potrero": [
+        0.4261,
+        0.1749
+      ],
+      "La Raza": [
+        0.4,
+        0.2
+      ],
+      "Tlatelolco": [
+        0.3759,
+        0.2191
+      ],
+      "Guerrero": [
+        0.344,
+        0.2821
+      ],
+      "Hidalgo": [
+        0.3449,
+        0.3113
+      ],
+      "Juárez": [
+        0.344,
+        0.3578
+      ],
+      "Balderas": [
+        0.34445,
+        0.409
+      ],
+      "Niños Héroes": [
+        0.344,
+        0.4342
+      ],
+      "Hospital General": [
+        0.3449,
+        0.4641
+      ],
+      "Centro Médico": [
+        0.34445,
+        0.513
+      ],
+      "Etiopía-Plaza de la Transparencia": [
+        0.344,
+        0.5406
+      ],
+      "Eugenia": [
+        0.344,
+        0.5697
+      ],
+      "División del Norte": [
+        0.3449,
+        0.5981
+      ],
+      "Zapata": [
+        0.3449,
+        0.6249
+      ],
+      "Coyoacán": [
+        0.344,
+        0.6517
+      ],
+      "Viveros-Derechos Humanos": [
+        0.344,
+        0.6785
+      ],
+      "Miguel Ángel de Quevedo": [
+        0.344,
+        0.7069
+      ],
+      "Copilco": [
+        0.344,
+        0.7352
+      ],
+      "Universidad": [
+        0.344,
+        0.7604
+      ]
+    }
+  },
+  "L4": {
+    "color": "#89C6A9",
+    "stations": {
+      "Martín Carrera": [
+        0.6141,
+        0.1489
+      ],
+      "Talismán": [
+        0.6122,
+        0.1734
+      ],
+      "Bondojito": [
+        0.6122,
+        0.1954
+      ],
+      "Consulado": [
+        0.61405,
+        0.2348
+      ],
+      "Canal del Norte": [
+        0.6122,
+        0.2734
+      ],
+      "Morelos": [
+        0.61175,
+        0.3058
+      ],
+      "Candelaria": [
+        0.61315,
+        0.3357
+      ],
+      "Fray Servando": [
+        0.6141,
+        0.4413
+      ],
+      "Jamaica": [
+        0.61315,
+        0.5134
+      ],
+      "Santa Anita": [
+        0.61315,
+        0.5571
+      ]
+    }
+  },
+  "L5": {
+    "color": "#F6B600",
+    "stations": {
+      "Pantitlán": [
+        0.801325,
+        0.48265
+      ],
+      "Hangares": [
+        0.8011,
+        0.4232
+      ],
+      "Terminal Aérea": [
+        0.7993,
+        0.3751
+      ],
+      "Oceanía": [
+        0.745,
+        0.29985
+      ],
+      "Aragón": [
+        0.7062,
+        0.2664
+      ],
+      "Eduardo Molina": [
+        0.6779,
+        0.2411
+      ],
+      "Consulado": [
+        0.61405,
+        0.2348
+      ],
+      "Valle Gómez": [
+        0.5255,
+        0.234
+      ],
+      "Misterios": [
+        0.4224,
+        0.2183
+      ],
+      "La Raza": [
+        0.4,
+        0.2
+      ],
+      "Autobuses del Norte": [
+        0.3704,
+        0.1734
+      ],
+      "Instituto del Petróleo": [
+        0.344,
+        0.1481
+      ],
+      "Politécnico": [
+        0.3047,
+        0.1001
+      ]
+    }
+  },
+  "L6": {
+    "color": "#C90B13",
+    "stations": {
+      "El Rosario": [
+        0.138,
+        0.1182
+      ],
+      "Tezozómoc": [
+        0.1551,
+        0.1348
+      ],
+      "UAM-Azcapotzalco": [
+        0.1916,
+        0.1521
+      ],
+      "Ferrería/Arena Ciudad de México": [
+        0.2254,
+        0.1513
+      ],
+      "Norte 45": [
+        0.2692,
+        0.1497
+      ],
+      "Vallejo": [
+        0.3002,
+        0.1481
+      ],
+      "Instituto del Petróleo": [
+        0.344,
+        0.1481
+      ],
+      "Lindavista": [
+        0.408,
+        0.1480
+      ],
+      "Deportivo 18 de Marzo": [
+        0.4389,
+        0.1489
+      ],
+      "La Villa-Basílica": [
+        0.521,
+        0.1513
+      ],
+      "Martín Carrera": [
+        0.6141,
+        0.1489
+      ]
     }
   },
   "L7": {
-    "color": "#F08A24",
+    "color": "#E58126",
     "stations": {
-      "Barranca del Muerto": [0.253, 0.691],
-      "Mixcoac": [0.253, 0.596],
-      "San Antonio": [0.253, 0.519],
-      "San Pedro de los Pinos": [0.253, 0.460],
-      "Tacubaya": [0.253, 0.361],
-      "Constituyentes": [0.253, 0.262],
-      "Auditorio": [0.253, 0.158],
-      "Polanco": [0.253, 0.047]
+      "El Rosario": [
+        0.138,
+        0.1182
+      ],
+      "Aquiles Serdán": [
+        0.1369,
+        0.1552
+      ],
+      "Camarones": [
+        0.1369,
+        0.1789
+      ],
+      "Refinería": [
+        0.1387,
+        0.2246
+      ],
+      "Tacuba": [
+        0.13595,
+        0.2553
+      ],
+      "San Joaquín": [
+        0.1369,
+        0.3191
+      ],
+      "Polanco": [
+        0.1369,
+        0.3656
+      ],
+      "Auditorio": [
+        0.1387,
+        0.4169
+      ],
+      "Constituyentes": [
+        0.1369,
+        0.4681
+      ],
+      "Tacubaya": [
+        0.1375,
+        0.513267
+      ],
+      "San Pedro de los Pinos": [
+        0.1369,
+        0.5603
+      ],
+      "San Antonio": [
+        0.1387,
+        0.5887
+      ],
+      "Mixcoac": [
+        0.13595,
+        0.6233
+      ],
+      "Barranca del Muerto": [
+        0.1369,
+        0.669
+      ]
+    }
+  },
+  "L8": {
+    "color": "#1F822C",
+    "stations": {
+      "Garibaldi-Lagunilla": [
+        0.41515,
+        0.2821
+      ],
+      "Bellas Artes": [
+        0.41605,
+        0.3101
+      ],
+      "San Juan de Letrán": [
+        0.4151,
+        0.3562
+      ],
+      "Salto del Agua": [
+        0.41745,
+        0.4082
+      ],
+      "Doctores": [
+        0.4279,
+        0.4452
+      ],
+      "Obrera": [
+        0.4553,
+        0.4681
+      ],
+      "Chabacano": [
+        0.510633,
+        0.511667
+      ],
+      "La Viga": [
+        0.5438,
+        0.5445
+      ],
+      "Santa Anita": [
+        0.61315,
+        0.5571
+      ],
+      "Coyuya": [
+        0.6624,
+        0.5871
+      ],
+      "Iztacalco": [
+        0.6606,
+        0.6115
+      ],
+      "Apatlaco": [
+        0.6624,
+        0.6414
+      ],
+      "Aculco": [
+        0.6624,
+        0.669
+      ],
+      "Escuadrón 201": [
+        0.6624,
+        0.695
+      ],
+      "Atlalilco": [
+        0.6752,
+        0.7179
+      ],
+      "Iztapalapa": [
+        0.6998,
+        0.7313
+      ],
+      "Cerro de la Estrella": [
+        0.729,
+        0.7297
+      ],
+      "UAM-I": [
+        0.76,
+        0.7297
+      ],
+      "Constitución de 1917": [
+        0.7947,
+        0.7313
+      ]
     }
   },
   "L9": {
-    "color": "#7C4A1A",
+    "color": "#774234",
     "stations": {
-      "Tacubaya": [0.253, 0.361],
-      "Patriotismo": [0.399, 0.361],
-      "Chilpancingo": [0.571, 0.361],
-      "Centro Medico": [0.679, 0.361],
-      "Lazaro Cardenas": [0.848, 0.361]
+      "Pantitlán": [
+        0.801325,
+        0.48265
+      ],
+      "Puebla": [
+        0.7819,
+        0.5028
+      ],
+      "Ciudad Deportiva": [
+        0.7527,
+        0.5138
+      ],
+      "Velódromo": [
+        0.7089,
+        0.5138
+      ],
+      "Mixiuhca": [
+        0.6697,
+        0.5138
+      ],
+      "Jamaica": [
+        0.61315,
+        0.5134
+      ],
+      "Chabacano": [
+        0.510633,
+        0.511667
+      ],
+      "Lázaro Cárdenas": [
+        0.4288,
+        0.5122
+      ],
+      "Centro Médico": [
+        0.34445,
+        0.513
+      ],
+      "Chilipancingo": [
+        0.292,
+        0.5138
+      ],
+      "Patriotismo": [
+        0.2099,
+        0.5138
+      ],
+      "Tacubaya": [
+        0.1375,
+        0.513267
+      ]
+    }
+  },
+  "LA": {
+    "color": "#780C62",
+    "stations": {
+      "Pantitlán": [
+        0.801325,
+        0.48265
+      ],
+      "Agrícola Oriental": [
+        0.8321,
+        0.5146
+      ],
+      "Canal de San Juan": [
+        0.833,
+        0.5445
+      ],
+      "Tepalcates": [
+        0.833,
+        0.5697
+      ],
+      "Guelatao": [
+        0.8321,
+        0.5965
+      ],
+      "Peñón Viejo": [
+        0.833,
+        0.6249
+      ],
+      "Acatitla": [
+        0.8321,
+        0.6517
+      ],
+      "Santa Marta": [
+        0.8321,
+        0.6801
+      ],
+      "Los Reyes": [
+        0.8476,
+        0.7084
+      ],
+      "La Paz": [
+        0.8695,
+        0.7273
+      ]
+    }
+  },
+  "LB": {
+    "color": "#999999",
+    "stations": {
+      "Buenavista": [
+        0.3002,
+        0.2797
+      ],
+      "Guerrero": [
+        0.344,
+        0.2821
+      ],
+      "Garibaldi-Lagunilla": [
+        0.41515,
+        0.2821
+      ],
+      "Lagunilla": [
+        0.5036,
+        0.2837
+      ],
+      "Tepito": [
+        0.5584,
+        0.2853
+      ],
+      "Morelos": [
+        0.61175,
+        0.3058
+      ],
+      "San Lázaro": [
+        0.6487,
+        0.3357
+      ],
+      "Ricardo Flores Magón": [
+        0.6843,
+        0.3400
+      ],
+      "Romero Rubio": [
+        0.7217,
+        0.3215
+      ],
+      "Oceanía": [
+        0.745,
+        0.29985
+      ],
+      "Deportivo Oceanía": [
+        0.7728,
+        0.2774
+      ],
+      "Bosque de Aragón": [
+        0.7838,
+        0.2545
+      ],
+      "Villa de Aragón": [
+        0.7838,
+        0.2301
+      ],
+      "Nezahualcóyotl": [
+        0.7838,
+        0.2049
+      ],
+      "Impulsora": [
+        0.7838,
+        0.182
+      ],
+      "Río de los Remedios": [
+        0.7856,
+        0.156
+      ],
+      "Múzquiz": [
+        0.7838,
+        0.1324
+      ],
+      "Ecatepec": [
+        0.7838,
+        0.1056
+      ],
+      "Olímpica": [
+        0.7838,
+        0.0827
+      ],
+      "Plaza Aragón": [
+        0.7856,
+        0.0583
+      ],
+      "Ciudad Azteca": [
+        0.7838,
+        0.0331
+      ]
     }
   },
   "L12": {
-    "color": "#2F7A3F",
+    "color": "#A88C39",
     "stations": {
-      "Mixcoac": [0.253, 0.596],
-      "Insurgentes Sur": [0.376, 0.596],
-      "Hospital 20 de Noviembre": [0.513, 0.596],
-      "Zapata": [0.679, 0.596],
-      "Parque de los Venados": [0.838, 0.596],
-      "Eje Central": [0.939, 0.740]
+      "Tláhuac": [
+        0.8193,
+        0.9732
+      ],
+      "Tlaltenco": [
+        0.7993,
+        0.9527
+      ],
+      "Zapotitlán": [
+        0.7755,
+        0.9377
+      ],
+      "Nopalera": [
+        0.7546,
+        0.9165
+      ],
+      "Olivos": [
+        0.7336,
+        0.8991
+      ],
+      "Tezonco": [
+        0.7135,
+        0.8818
+      ],
+      "Periférico Oriente": [
+        0.6916,
+        0.8597
+      ],
+      "Calle 11": [
+        0.6734,
+        0.8345
+      ],
+      "Lomas Estrella": [
+        0.6734,
+        0.8054
+      ],
+      "San Andrés Tomatlán": [
+        0.6752,
+        0.7778
+      ],
+      "Cuhualcan": [
+        0.6752,
+        0.7502
+      ],
+      "Atlalilco": [
+        0.6752,
+        0.7179
+      ],
+      "Mexicaltzingo": [
+        0.6095,
+        0.7203
+      ],
+      "Ermita": [
+        0.51005,
+        0.6879
+      ],
+      "Eje Central": [
+        0.4726,
+        0.6872
+      ],
+      "Parque de los Venados": [
+        0.4224,
+        0.6233
+      ],
+      "Zapata": [
+        0.3449,
+        0.6249
+      ],
+      "Hospital 20 de Noviembre": [
+        0.2646,
+        0.6233
+      ],
+      "Insurgentes Sur": [
+        0.1962,
+        0.621
+      ],
+      "Mixcoac": [
+        0.13595,
+        0.6233
+      ]
     }
   }
 }

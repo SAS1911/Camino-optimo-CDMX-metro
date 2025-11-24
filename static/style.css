@@ -10,8 +10,8 @@ body {
 }
 
 #imagen-metro {
-  width: 396px;
-  height: 443px;
+  width: 1096px;
+  height: 1269px;
   display: block;
 }
 
@@ -19,8 +19,8 @@ body {
   position: absolute;
   left: 0;
   top: 0;
-  width: 396px;
-  height: 443px;
+  width: 1096px;
+  height: 1269px;
   pointer-events: none;
   z-index: 2;
 }
@@ -29,8 +29,8 @@ body {
   position: absolute;
   left: 0;
   top: 0;
-  width: 396px;
-  height: 443px;
+  width: 1096px;
+  height: 1269px;
   z-index: 3;
 }
 

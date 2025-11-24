@@ -10,8 +10,8 @@ const capaEstaciones = document.getElementById("estaciones");
 const divResultado = document.getElementById("resultado");
 const divPasos = document.getElementById("lista-pasos");
 
-const ANCHO_MAPA = 396;
-const ALTO_MAPA = 443;
+const ANCHO_MAPA = 1096;
+const ALTO_MAPA = 1269;
 
 // Cargar estaciones con sus respectivos datos (coordenadas, color, linea y nombre)
 
